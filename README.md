@@ -1,5 +1,5 @@
 # gps-nllsq
-* application of nonlinear least squares optimization to GPS
+  *application of nonlinear least squares optimization to GPS*
 
 Fun little applied math project. Given the positions of several satellites in space and corresponding signal latencies
 to an unknown point on Earth, how do we determine that point? Clock latency and atmospheric scattering must be accounted
