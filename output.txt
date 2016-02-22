@@ -1,0 +1,28 @@
+Equation solved, inaccuracy possible.
+
+The vector of function values is near zero, as measured by the default value
+of the function tolerance. However, the last step was ineffective.
+
+<stopping criteria details>
+
+
+result =
+
+   1.0e+03 *
+
+   -0.0418   -0.0168    6.3701   -0.0000
+
+
+Local minimum possible.
+
+lsqnonlin stopped because the final change in the sum of squares relative to 
+its initial value is less than the default value of the function tolerance.
+
+<stopping criteria details>
+
+
+result =
+
+   1.0e+04 *
+
+   -1.4822   -0.5497    0.0557   -0.0000
